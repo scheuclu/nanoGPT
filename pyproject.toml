@@ -27,6 +27,8 @@ notebooks = [
     "anywidget",
     "ipycanvas>=0.13",
     "pillow",
+    "jupyterlab-rise>=0.43",
+    "torchviz>=0.0.2",
 ]
 
 [tool.uv]
